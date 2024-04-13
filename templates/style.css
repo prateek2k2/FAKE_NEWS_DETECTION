@@ -1,0 +1,27 @@
+/* styles.css */
+.shadow-textarea textarea.form-control::placeholder {
+  font-weight: 300;
+}
+
+.shadow-textarea textarea.form-control {
+  padding-left: 0.8rem;
+}
+
+.btn {
+  background-color: #ff9800; /* Orange */
+  color: white; /* White text */
+  padding: 12px 24px; /* Some padding */
+  margin: 10px 0; /* Margin top and bottom */
+  border: none; /* Remove border */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  width: 100%; /* Full width */
+  opacity: 0.85; /* Add an opacity */
+  font-size: 18px; /* Increase font size */
+}
+
+.btn:hover {
+  opacity: 1; /* Fully opaque on hover */
+}
+.nav-link text-light{
+    
+}
